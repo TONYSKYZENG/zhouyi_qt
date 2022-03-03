@@ -1,6 +1,0 @@
-<RCC>
-    <qresource prefix="/img">
-        <file>img/yang.jpg</file>
-        <file>img/yin.jpg</file>
-    </qresource>
-</RCC>
